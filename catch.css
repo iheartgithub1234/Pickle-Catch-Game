@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: Courier;
+    text-decoration: underline;
+}
+
+#box {
+    margin: 0 auto;
+    width: 400px;
+    height: 600px;
+    border: 1px black solid;
+    background-color: white;
+}
+
+#thing {
+    background-image:url("pickleimage.png");
+    background-size: cover;
+    width: 50px;
+    height: 100px;
+    position: relative;
+}
+
+#bucket {
+    background-image:url("bucketimage.png");
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 400px;
+}
+
+h2 {
+    font-size: 35px;
+    text-align: center;
+    font-family: Courier;
+}
